@@ -85,7 +85,7 @@ node dist/main
 ```bash
 # entrar al directorio del api rest 
 # (desde la raiz del repositorio)
-cd frontend/aviatur-api
+cd frontend/aviatur-app
 # instalar dependencias
 npm install
 # compilar aplicación
