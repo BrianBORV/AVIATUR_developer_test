@@ -46,7 +46,7 @@ Adicionalmente, se puede consultar la documentación del API mediante la direcci
 ```bash
 # entrar al directorio del api rest 
 # (desde la raiz del repositorio)
-cd frontend/aviatur-api
+cd frontend/aviatur-app
 # instalar dependencias
 npm install
 # iniciar servicio
